@@ -14,7 +14,6 @@ namespace InheritancePolymorphism
             e.opponent = p;
            
             
-
             List<Fighter> fighters = new List<Fighter>();
             fighters.Add(p);
             fighters.Add(e);
@@ -42,8 +41,7 @@ namespace InheritancePolymorphism
         
         public void TakingDamage(int amount) // method that will handle fighters taking damage
         {
-            Player p = new Player();
-            Enemy e = new Enemy();
+            
           currentHealth = currentHealth - amount;
            
             
@@ -67,35 +65,40 @@ namespace InheritancePolymorphism
             Enemy e = new Enemy();
             p.opponent = e;
             e.opponent = p;
-            p.healthPotions = 3;
+            
+            
             Console.WriteLine("==== Player Turn ===");
             Console.WriteLine("Player Health:" + currentHealth);
             Console.WriteLine("Enemy Health:" + opponent.currentHealth);
-            Console.WriteLine("Enter '1' to Attack \nEnter '2' to use Health Potion(" + p.healthPotions + " Remaing)");
-            p.currentHealth--;
-            int playerChoice = int.Parse(Console.ReadLine());
-            if (playerChoice == 1)
-            {
-                opponent.TakingDamage(2);
-                Console.WriteLine("The player landed an Attack '2' point(s) of damage");
-            }
-            else
-            {
+            Console.WriteLine("What would you like to choose.");
+            
+            Console.WriteLine("Enter '1' to Attack \nEnter '2' to use Health Potion(" + p.potionStocks + " Remaing)");
                 
 
-                p.healthPotions = (currentHealth += 5); 
-                
-                
-                Console.WriteLine("The Player healed '5' point(s) hp" + currentHealth);
-                
-            }
+                int playerChoice = int.Parse(Console.ReadLine());
+
+                if (playerChoice == 1)
+                {
+                    opponent.TakingDamage(2);
+                    Console.WriteLine("The player landed an Attack worth '2' point(s) of damage");
+                }
+
+
+                else
+                {
+
+                currentHealth += 5;
+
+                    Console.WriteLine("The Player recovered '5' point(s)" + p.potionStocks);
+
+                }
             
 
-            if (opponent.currentHealth <= 0)
-            {
-                Console.WriteLine("The Player has won GOOD SHIT!");
-            }
-            
+                if (opponent.currentHealth <= 0)
+                {
+                    Console.WriteLine("The Player has won Congrats!");
+                }
+        
         }
         
     }
@@ -116,28 +119,35 @@ namespace InheritancePolymorphism
             Enemy e = new Enemy();
             p.opponent = e;
             e.opponent = p;
-            Console.WriteLine("=== Opponent turn ===");
-            Console.WriteLine("Enemy Health:" + currentHealth);
-            Console.WriteLine("Player Health" + opponent.currentHealth);
             if (currentHealth > 0)
             {
+                Console.WriteLine("=== Opponent turn ===");
+                Console.WriteLine("Enemy Health:" + currentHealth);
+                Console.WriteLine("Player Health:" + opponent.currentHealth);
+
+
                 opponent.TakingDamage(3);
                 Console.WriteLine("Attacking the Player for '3' points of damage");
-               
-            }
-                    }
+                if (opponent.currentHealth <= 0)
+                {
+                    Console.WriteLine("Enemy Health:" + currentHealth);
+                    Console.WriteLine("Player Health:" + opponent.currentHealth);
+                    Console.WriteLine("The Enemy has won. GameOver");
+                }
+            }     
+          }
     }
 
     public class Player : Fighter
     {
-        public int healthPotions = 3;
+        public int potionStocks;
         public Player() : base()
         {
             
             name = "Player";
             currentHealth = 10;
             death = 0;
-            healthPotions = 3;
+            potionStocks = 3;
             
         }
         
