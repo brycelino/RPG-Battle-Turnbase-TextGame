@@ -1,0 +1,42 @@
+C:\Users\bryce\source\c#\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.exe
+C:\Users\bryce\source\c#\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.deps.json
+C:\Users\bryce\source\c#\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.runtimeconfig.json
+C:\Users\bryce\source\c#\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.runtimeconfig.dev.json
+C:\Users\bryce\source\c#\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.dll
+C:\Users\bryce\source\c#\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.pdb
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.csproj.AssemblyReference.cache
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.AssemblyInfoInputs.cache
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.AssemblyInfo.cs
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.dll
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.pdb
+C:\Users\bryce\source\c#\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.genruntimeconfig.cache
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.csproj.AssemblyReference.cache
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.AssemblyInfoInputs.cache
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.AssemblyInfo.cs
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.dll
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.pdb
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.exe
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.deps.json
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.runtimeconfig.json
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.runtimeconfig.dev.json
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.dll
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.pdb
+C:\Users\bryce\Documents\GitHub\school c# g&s\InheritancePolymorphism\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.genruntimeconfig.cache
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.exe
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.deps.json
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.runtimeconfig.json
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.runtimeconfig.dev.json
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.dll
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\bin\Debug\netcoreapp3.1\InheritancePolymorphism.pdb
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.csproj.AssemblyReference.cache
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.AssemblyInfoInputs.cache
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.AssemblyInfo.cs
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.csproj.CoreCompileInputs.cache
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.dll
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.pdb
+C:\Users\bryce\Documents\game&simpro\InheritancePolymorphism\obj\Debug\netcoreapp3.1\InheritancePolymorphism.genruntimeconfig.cache
